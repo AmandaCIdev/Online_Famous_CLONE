@@ -98,3 +98,21 @@ nav {
     align-items: center;
     margin: 0px 15px;
 }
+
+.nav-bottom {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 8px 20px;
+    background: #232f3e;
+    color: #fff;
+    font-size: 15px;
+
+}
+
+.nav-bottom div {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-weight: 500;
+}
