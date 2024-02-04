@@ -15,3 +15,13 @@ a {
     text-decoration: none;
     color: inherit;
 }
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #131921;
+    padding: 10px 20px;
+    color: #fff;
+
+}
